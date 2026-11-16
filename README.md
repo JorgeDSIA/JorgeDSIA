@@ -58,6 +58,21 @@ I am particularly interested in opportunities where data analytics, business und
 *My technical experience includes implemented projects, academic work, and technologies currently being developed or strengthened.*
 
 ## 🚀 Featured Projects
+### 1. Life Expectancy Analysis — Python & Machine Learning
+
+Exploratory data analysis and supervised machine learning applied to public-health and socioeconomic indicators.
+
+**Technologies:** Python, pandas, NumPy, scikit-learn, Matplotlib, Git, and pytest.
+
+**Models evaluated:** Ridge Regression and Random Forest.
+
+**Best reported result:**
+- Random Forest R²: 0.900
+- Mean Absolute Error (MAE): 2.265 years
+
+These results correspond to an educational evaluation using an aggregated country-level dataset and should not be interpreted as production performance.
+
+🔗 [View Life Expectancy ML Analysis](https://github.com/JorgeDSIA/life-expectancy-ml-analysis)
 
 ### 2. Life Expectancy Analysis — R & Statistical Modeling
 
