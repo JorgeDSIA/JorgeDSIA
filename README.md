@@ -2,7 +2,7 @@
 
 ### Data Science | Artificial Intelligence | Advanced Analytics | Machine Learning
 
-📍 Costa Rica | 🌎 Open to career opportunities in Canada and international teams
+📍 Costa Rica | 🌎 Open to career opportunities and international teams
 
 ## 👨‍💻 Professional Profile
 
