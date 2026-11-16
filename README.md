@@ -59,21 +59,25 @@ I am particularly interested in opportunities where data analytics, business und
 
 ## 🚀 Featured Projects
 
-### 1. Life Expectancy Analysis — Python & Machine Learning
+### 2. Life Expectancy Analysis — R & Statistical Modeling
 
-Exploratory data analysis, Principal Component Analysis (PCA), and supervised regression using public-health and socioeconomic indicators.
+Exploratory analysis of life expectancy indicators using R, combining statistical visualization, multivariate analysis, and predictive modeling.
 
-**Technologies:** Python, pandas, NumPy, scikit-learn, Matplotlib, Git and pytest.
+**Technologies:** R, R Markdown, ggplot2, dplyr, FactoMineR, and factoextra.
 
-**Models evaluated:** Ridge Regression and Random Forest.
+**Methods applied:**
+- Exploratory Data Analysis (EDA)
+- Data cleaning and transformation
+- Correlation analysis
+- Principal Component Analysis (PCA)
+- Multiple linear regression
+- Logistic regression
 
-**Best reported result:**
-- Random Forest R²: 0.900
-- Mean Absolute Error: 2.265 years
+**Project documentation:** R Markdown report with HTML and PDF outputs.
 
-These results correspond to an educational evaluation using an aggregated country-level dataset and should not be interpreted as production performance.
+Developed in the context of the HarvardX Data Science: Capstone course, this project demonstrates the application of statistical analysis and machine learning techniques to public-health indicators.
 
-🔗 [View Life Expectancy ML Analysis](https://github.com/JorgeDSIA/life-expectancy-ml-analysis)
+🔗 [View Life Expectancy R Analysis](https://github.com/JorgeDSIA/life-expectancy-r-analysis)
 
 ## 🔬 Projects in Development
 
